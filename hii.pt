@@ -1,0 +1,37 @@
+curl 'https://adsmanager.facebook.com/adsmanager/manage/campaigns?act=161963836727240&tool=MANAGE_ADS&nav_entry_point=bm_global_nav_shortcut&nav_source=flyout_menu&nav_id=883851952' \
+
+  -H 'authority: adsmanager.facebook.com' \
+
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+
+  -H 'cache-control: max-age=0' \
+
+  -H 'cookie: 
+
+  -H 'referer: https://business.facebook.com/' \
+
+  -H 'sec-ch-prefers-color-scheme: light' \
+
+  -H 'sec-ch-ua: "Chromium";v="107", "Not=A?Brand";v="24"' \
+
+  -H 'sec-ch-ua-mobile: ?0' \
+
+  -H 'sec-ch-ua-platform: "Linux"' \
+
+  -H 'sec-fetch-dest: document' \
+
+  -H 'sec-fetch-mode: navigate' \
+
+  -H 'sec-fetch-site: same-origin' \
+
+  -H 'sec-fetch-user: ?1' \
+
+  -H 'upgrade-insecure-requests: 1' \
+
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36' \
+
+  -H 'viewport-width: 980' \
+
+  --compressed
